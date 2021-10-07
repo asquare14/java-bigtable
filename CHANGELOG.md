@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.1.5](https://www.github.com/googleapis/java-bigtable/compare/v2.1.4...v2.1.5) (2021-10-07)
+
+
+### Bug Fixes
+
+* fix typo in rst stream message ([#1029](https://www.github.com/googleapis/java-bigtable/issues/1029)) ([50e6860](https://www.github.com/googleapis/java-bigtable/commit/50e686094c316560864c30a0295b3ed3f655c765))
+
 ### [2.1.4](https://www.github.com/googleapis/java-bigtable/compare/v2.1.3...v2.1.4) (2021-09-22)
 
 
